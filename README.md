@@ -16,6 +16,8 @@ Download the program and place it into desired folder.
 
 If you're using Linux/MAC OS, open terminal and browse to the downloaded folder and run ```python subnetcalc.py```.
 if you're using windows, make sure you have Python2.7 set up (See [Python installation on windows](http://stackoverflow.com/a/21373411/7586417) ). Open command prompt and browse to the installed folder and run ```python subnetcalc.py```
+pythone 3.6 please download the subnetcalc3.6
+
 
 ### Prerequisites
 
